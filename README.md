@@ -4,10 +4,8 @@
 - Multiple Languages Scripter
 - Beginner Modeler
 
-## Current Projects:
-- 👹 making a boss fight (mahoraga)
-- 🚶‍♂️ scripting parkour system
-- 💥 creating battlegrounds-like abilities
+## Current Project(s):
+- working on INCURSIONS
 
 ## Skills: 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
