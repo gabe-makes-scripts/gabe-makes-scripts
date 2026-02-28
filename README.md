@@ -1,11 +1,16 @@
-## Hello, I am Gabriel! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bbe7c6f5-4985-4fa9-a9ea-1b7282bfff0a" />
+## Hello! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bbe7c6f5-4985-4fa9-a9ea-1b7282bfff0a" />
+
+I am Gabriel!
 
 #### I also am a:
 - Multiple Languages Scripter
 - Beginner Modeler
+- Animator
 
 ## Current Project(s):
-- working on INCURSIONS
+- working on a Minecraft Remake
+- looking for commisions
+- growing my youtube channel
 
 ## Skills: 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
