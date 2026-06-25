@@ -3,8 +3,7 @@
 I am Gabriel!
 
 ## Current Project(s):
-- cpu emulator
-- coding language based off cpu emulator
+- graphics engine inspired by source
 
 ## Skills: 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
